@@ -1,0 +1,15 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686498069
+icon.png::CompressedTexture2D::7719243542392603022::1686497992::1686497992::1::::<><>::
+icon.svg::CompressedTexture2D::7659279896712078688::1685786206::1685786216::1::::<><>::
+README.md::TextFile::-1::1686497990::0::1::::<><>::
+slime.tscn::PackedScene::2098353343428442105::1686498069::0::1::::<><>::uid://c2krm3j4oi02i<>uid://byl70fk872b55<>uid://cak305txpesy1<>uid://b2gf2oldafsjv
+::res://adobe projects/::1685788473
+1.png::::-1::0::0::0::::<><>::
+::res://slime frames/::1685786320
+::res://slime frames/idle/::1685788474
+idle1.png::CompressedTexture2D::6689639027451286914::1685788420::1685788474::1::::<><>::
+idle2.png::CompressedTexture2D::4095648954524675094::1685788442::1685788474::1::::<><>::
+idle3.png::CompressedTexture2D::4795231471688910146::1685788457::1685788474::1::::<><>::
+idle4.png::CompressedTexture2D::4294258282299873111::1685788471::1685788474::1::::<><>::
+::res://slime frames/run/::1685786320
